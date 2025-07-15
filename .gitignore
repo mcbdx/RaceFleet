@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# custom files
+go_learning/
+
 # Test binary, built with `go test -c`
 *.test
 
